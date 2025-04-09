@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Email,Position,Department,HireDate,Salary
+1001,Ana,Souza,ana.souza@empresa.com,Analista de Dados,TI,2019-03-15,4500
+1002,Bruno,Silva,bruno.silva@empresa.com,Desenvolvedor,TI,2020-06-01,5500
+1003,Camila,Pereira,camila.pereira@empresa.com,Recursos Humanos,RH,2018-10-10,4000
+1004,Daniel,Costa,daniel.costa@empresa.com,Gerente de Projetos,PMO,2017-01-22,7500
+1005,Elisa,Oliveira,elisa.oliveira@empresa.com,Assistente Administrativo,Administração,2021-08-30,3200
+1006,Felipe,Martins,felipe.martins@empresa.com,Analista Financeiro,Financeiro,2019-11-19,4800
+1007,Gustavo,Almeida,gustavo.almeida@empresa.com,Técnico de Suporte,TI,2022-05-05,3600
+1008,Helena,Ramos,helena.ramos@empresa.com,Coordenadora de Marketing,Marketing,2020-02-12,6200
+1009,Igor,Lima,igor.lima@empresa.com,Designer Gráfico,Marketing,2021-01-17,4100
+1010,Juliana,Barros,juliana.barros@empresa.com,Consultora de Vendas,Vendas,2019-09-09,4700

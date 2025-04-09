@@ -61,8 +61,8 @@ My goal is to build a strong foundation in AWS cloud computing by completing han
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/<your-username>/aws-cloud-bootcamp.git
-cd aws-cloud-bootcamp
+git git@github.com:BrunoChiconato/aws-bootcamp.git
+cd aws-bootcamp
 ```
 
 Follow the instructions provided in each project folder to set up your environment and deploy your projects on AWS.

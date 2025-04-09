@@ -1,0 +1,23 @@
+[project]
+name = "example-1"
+version = "0.1.0"
+description = "Example 1 for the AWS bootcamp"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[tool.ruff]
+line-length = 79
+indent-width = 4
+target-version = "py313"
+
+[tool.taskipy.tasks]
+lint = {cmd = "uvx ruff check .", help = "Linter"}
+fmt = {cmd = "uvx ruff format .", help = "Formatter"}
+clean = {cmd = """
+    find ./ -name '*.pyc' -exec rm -f {} \\;
+    find ./ -name '__pycache__' -exec rm -rf {} \\;
+    find ./ -name 'Thumbs.db' -exec rm -f {} \\;
+    find ./ -name '*~' -exec rm -f {} \\;
+    rm -rf {.cache, .pytest_cache, .mypy_cache, htmlcov, docs/_build}
+    """, help = "Clean unused files"}

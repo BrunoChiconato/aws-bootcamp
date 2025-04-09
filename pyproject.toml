@@ -1,7 +1,0 @@
-[project]
-name = "cloud-bootcamp"
-version = "0.1.0"
-description = "Cloud Bootcamp"
-readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
