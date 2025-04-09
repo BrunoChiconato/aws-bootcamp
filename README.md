@@ -1,4 +1,4 @@
-# AWS Cloud Bootcamp – Personal Repository
+# AWS Cloud Bootcamp
 
 This repository is dedicated to the Cloud Bootcamp taught by [Jornada de Dados](https://suajornadadedados.com.br). The official repository can be found here: [Official Repository](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/Bootcamp%20-%20Cloud%20para%20dados).
 
